@@ -1,5 +1,5 @@
 #!/bin/bash -x
-dir=mani
+dir=mul
 if [ $dir = mani ]
 then 
 echo "dir is  there"
