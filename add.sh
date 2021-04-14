@@ -1,6 +1,6 @@
 #!/bin/bash -x
-dir=ganesh
-if [ $dir = ganesh ]
+dir=mani
+if [ $dir = mani ]
 then 
 echo "dir is  there"
 else
